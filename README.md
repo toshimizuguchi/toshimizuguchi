@@ -26,7 +26,7 @@
 <h2 align="center">Fotos reais</h2>
 
 <img src="https://i.pinimg.com/474x/0c/b9/34/0cb9342902505b87b82de39e283248af.jpg"></img>
-<img src="https://cafenoticias.wordpress.com/wp-content/uploads/2012/10/feio3quedoi1.jpg"></img>
+<img src="https://cafenoticias.wordpress.com/wp-content/uploads/2012/10/feio3quedoi1.jpg"></img> <br>
 <img src="https://images.uncyc.org/commons/thumb/6/60/Japones-muito-feio-coitado_1.jpg/200px-Japones-muito-feio-coitado_1.jpg"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH4B3leFc2wHsA94GCFZZ6RHnpKi6kMoQnyQt8_XNsiafrzQWljZDgXbR3NZNoE9Wfvo&usqp=CAU"></img>
 
