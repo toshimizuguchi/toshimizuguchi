@@ -8,4 +8,5 @@
        Jogar LOL ( sou man Gragas ) <br>
        caçar Pokémon<br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshimizuguchi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshimizuguchi&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshimizuguchi&show_icons=true&theme=radical)
