@@ -1,0 +1,3 @@
+2025-05-16 13:41:45 | Produto: Pre treino | Quantidade: 7 | Total: R$ 126,00
+2025-05-16 13:41:57 | Produto: Pre treino | Quantidade: 7 | Total: R$ 126,00
+2025-05-16 13:42:35 | Produto: Sapato | Quantidade: 5 | Total: R$ 1.025,00
