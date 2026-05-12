@@ -30,13 +30,10 @@ Projeto simples desenvolvido para estudos de HTML e CSS, focado em estruturaçã
 
 ---
 
+
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toshimizuguchi&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshimizuguchi&layout=compact&theme=tokyonight" />
-</p>
-
+![Toshi GitHub stats](https://github-readme-stats.vercel.app/api?username=toshimizuguchi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshimizuguchi&layout=compact&theme=tokyonight)
 ---
 
 ## 🎯 Objetivos
