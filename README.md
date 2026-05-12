@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Toshi 👋
 
-<!--
-**toshimizuguchi/toshimizuguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento backend e automação de processos. Atualmente estou focado em evoluir minhas habilidades através de estudos práticos e desenvolvimento de projetos pessoais.
+Tenho conhecimentos em desenvolvimento web utilizando HTML, CSS, JavaScript, React e Vite, além de estar estudando Java, TypeScript e backend.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e ferramentas
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+- Git & GitHub
+- Java (estudando)
+- TypeScript (estudando)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos
+
+### SunPDV
+Projeto desenvolvido como TCC com foco em sistema de PDV e autenticação de usuários baseada em permissões.
+
+### Cinema
+Projeto simples desenvolvido para estudos de HTML e CSS, focado em estruturação de páginas e navegação.
+
+## 🎯 Objetivos
+- Evoluir no desenvolvimento backend
+- Criar projetos reais para portfólio
+- Aprender arquitetura de software
+- Melhorar minhas habilidades práticas em programação
+- Trabalhar futuramente como desenvolvedor backend
+
+## 📫 Contato
+- LinkedIn: adicione aqui
+- Email: adicione aqui
+
+---
+
+⭐ Sempre aprendendo e buscando evoluir na área de tecnologia.
