@@ -32,8 +32,6 @@ Projeto simples desenvolvido para estudos de HTML e CSS, focado em estruturaçã
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="left">
   <img
     height="180em"
