@@ -29,10 +29,22 @@ Projeto desenvolvido como TCC com foco em sistema de PDV e autenticação de usu
 Projeto simples desenvolvido para estudos de HTML e CSS, focado em estruturação de páginas e navegação.
 
 ---
-
+<br>
+<br>
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshimizuguchi&show_icons=true&theme=transparent)
+<img align="left"
+alt="Github Stats
+height="200"
+style="padding-right: 10px;"
+src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshimizuguchi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)"
+/>
+
+<img align="left"
+alt="Github Stats
+height="200"
+src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toshimizuguchi&theme=tokyonights&layout=compact&customcustom_title=Tecnologias&langs_count=9)"
+/>
 ---
 
 ## 🎯 Objetivos
