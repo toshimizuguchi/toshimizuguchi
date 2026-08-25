@@ -37,12 +37,14 @@ Atualmente estou aprofundando meus conhecimentos em **Python**, **FastApi** e de
 
 ## 📚 Atualmente estudando
 
-- ☕ Java
-- 📘 Programação Orientada a Objetos (POO)
-- 🌐 Desenvolvimento Backend
-- 🔗 APIs REST
-- 
-- 🏗️ Arquitetura de Software
+-  Java
+-  Programação Orientada a Objetos (POO)
+-  Desenvolvimento Backend
+- APIs REST
+-  Arquitetura de Software
+- Python
+- Banco de dados
+- Fastapi
 
 ---
 
@@ -61,7 +63,7 @@ Sistema de Ponto de Venda desenvolvido como projeto de conclusão de curso.
 
 **Tecnologias**
 
-Java • React • MySQL
+Java • React • Sql Server
 
 ---
 
