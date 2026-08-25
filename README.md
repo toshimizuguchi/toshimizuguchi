@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Toshi Mizuguchi
 
-💻 Estudante de Engenharia de Software e apaixonado por desenvolvimento backend.
+💻 Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento backend.
 
-Atualmente estudo Java, Spring Boot, TypeScript e arquitetura de software, sempre buscando desenvolver projetos que resolvam problemas reais e aprimorem minhas habilidades técnicas.
+Atualmente estou aprofundando meus conhecimentos em **Java**, **TypeScript** e desenvolvimento backend, buscando construir projetos que fortaleçam minha base em programação, boas práticas e arquitetura de software.
 
 ---
 
@@ -31,11 +31,11 @@ Atualmente estudo Java, Spring Boot, TypeScript e arquitetura de software, sempr
 ## 📚 Atualmente estudando
 
 - ☕ Java
-- 🌱 Spring Boot
-- 🗄️ Banco de Dados Relacional (PostgreSQL)
-- 📦 APIs REST
+- 📘 Programação Orientada a Objetos (POO)
+- 🌐 Desenvolvimento Backend
+- 🔗 APIs REST
+- 📖 TypeScript
 - 🏗️ Arquitetura de Software
-- 🐳 Docker
 
 ---
 
@@ -51,11 +51,10 @@ Sistema de Ponto de Venda desenvolvido como projeto de conclusão de curso.
 - Controle de permissões
 - Cadastro de produtos
 - Gestão de vendas
-- Interface moderna
 
 **Tecnologias**
 
-Java • Spring Boot • React • MySQL
+Java • React • MySQL
 
 ---
 
@@ -84,13 +83,12 @@ Projeto desenvolvido para praticar HTML e CSS.
 
 ## 🎯 Objetivos para 2026
 
-- ✅ Dominar Java
-- 🔄 Aprender Spring Boot
-- 📦 Desenvolver APIs REST completas
-- 🗄️ Aprender PostgreSQL
-- 🐳 Utilizar Docker em projetos
-- ☁️ Fazer deploy de aplicações
-- 💼 Conquistar minha primeira oportunidade como desenvolvedor Backend
+- ☕ Consolidar meus conhecimentos em Java
+- 🚀 Evoluir no desenvolvimento backend
+- 📦 Desenvolver APIs REST
+- 🏗️ Aprender mais sobre arquitetura de software
+- 💼 Construir projetos para meu portfólio
+- 🎯 Conquistar minha primeira oportunidade como desenvolvedor Backend
 
 ---
 
@@ -106,4 +104,4 @@ Projeto desenvolvido para praticar HTML e CSS.
 
 ---
 
-> "Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor."
+> *"Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor."*
