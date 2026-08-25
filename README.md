@@ -29,7 +29,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java**, **TypeScript** e d
 
 ### Banco de dados
 <p>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
 ---
