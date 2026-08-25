@@ -1,73 +1,109 @@
-# Olá, eu sou Toshi Mizuguchi 👋
+# 👋 Olá! Eu sou Toshi Mizuguchi
 
-Estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento backend e automação de processos. Atualmente estou focado em evoluir minhas habilidades através de estudos práticos e desenvolvimento de projetos pessoais.
+💻 Estudante de Engenharia de Software e apaixonado por desenvolvimento backend.
 
-Tenho conhecimentos em desenvolvimento web utilizando HTML, CSS, JavaScript, React e Vite, além de estar estudando Java, TypeScript e backend.
+Atualmente estudo Java, Spring Boot, TypeScript e arquitetura de software, sempre buscando desenvolver projetos que resolvam problemas reais e aprimorem minhas habilidades técnicas.
 
 ---
 
-## 🚀 Tecnologias e ferramentas
+## 🚀 Tecnologias
 
-<p align="left">
-  <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="Vite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
-  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+### Front-end
+
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+</p>
+
+### Back-end
+
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
 ---
 
-## 💻 Projetos
+## 📚 Atualmente estudando
 
-### SunPDV
-
-Projeto desenvolvido como TCC com foco em sistema de PDV e autenticação de usuários baseada em permissões.
-
-### Cinema
-
-Projeto simples desenvolvido para estudos de HTML e CSS, focado em estruturação de páginas e navegação.
+- ☕ Java
+- 🌱 Spring Boot
+- 🗄️ Banco de Dados Relacional (PostgreSQL)
+- 📦 APIs REST
+- 🏗️ Arquitetura de Software
+- 🐳 Docker
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Projetos
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=toshimizuguchi&show_icons=true&theme=tokyonight" 
-/>
+### 🛒 SunPDV
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=toshimizuguchi&layout=compact&theme=tokyonight" 
-/>
+Sistema de Ponto de Venda desenvolvido como projeto de conclusão de curso.
 
- <br clear="both"/>
+**Principais funcionalidades**
 
-## 🎯 Objetivos
+- Autenticação de usuários
+- Controle de permissões
+- Cadastro de produtos
+- Gestão de vendas
+- Interface moderna
 
-- Evoluir no desenvolvimento backend
-- Criar projetos reais para portfólio
-- Aprender arquitetura de software
-- Melhorar minhas habilidades práticas em programação
-- Trabalhar futuramente como desenvolvedor backend
+**Tecnologias**
+
+Java • Spring Boot • React • MySQL
+
+---
+
+### 🎬 Cinema
+
+Projeto desenvolvido para praticar HTML e CSS.
+
+**Aprendizados**
+
+- Estruturação de páginas
+- Responsividade
+- Organização de componentes
+- Navegação entre páginas
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=toshimizuguchi&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshimizuguchi&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivos para 2026
+
+- ✅ Dominar Java
+- 🔄 Aprender Spring Boot
+- 📦 Desenvolver APIs REST completas
+- 🗄️ Aprender PostgreSQL
+- 🐳 Utilizar Docker em projetos
+- ☁️ Fazer deploy de aplicações
+- 💼 Conquistar minha primeira oportunidade como desenvolvedor Backend
 
 ---
 
 ## 📫 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vinicius-toshi-mizuguchi-603194294/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/vinicius-toshi-mizuguchi-603194294/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:toshi0123.mizuguchi@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<a href="mailto:toshi0123.mizuguchi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
-⭐ Sempre aprendendo e buscando evoluir na área de tecnologia.
+> "Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor."
