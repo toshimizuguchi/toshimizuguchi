@@ -2,7 +2,7 @@
 
 💻 Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento backend.
 
-Atualmente estou aprofundando meus conhecimentos em **Java**, **TypeScript** e desenvolvimento backend, buscando construir projetos que fortaleçam minha base em programação, boas práticas e arquitetura de software.
+Atualmente estou aprofundando meus conhecimentos em **Python**, **FastApi** e desenvolvimento backend, buscando construir projetos que fortaleçam minha base em programação, boas práticas e arquitetura de software.
 
 ---
 
@@ -31,6 +31,8 @@ Atualmente estou aprofundando meus conhecimentos em **Java**, **TypeScript** e d
 <p>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
 </p>
 ---
 
@@ -40,7 +42,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java**, **TypeScript** e d
 - 📘 Programação Orientada a Objetos (POO)
 - 🌐 Desenvolvimento Backend
 - 🔗 APIs REST
-- 📖 TypeScript
+- 
 - 🏗️ Arquitetura de Software
 
 ---
