@@ -29,10 +29,9 @@ Atualmente estou aprofundando meus conhecimentos em **Python**, **FastApi** e de
 
 ### Banco de dados
 <p>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />          
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-
 </p>
 ---
 
